@@ -91,3 +91,5 @@ Automated data refresh using Power BI Service
 Integration with live APIs
 
 Predictive analysis using ML forecasting
+![Uploading image.png…]()
+
